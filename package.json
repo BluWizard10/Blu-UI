@@ -1,0 +1,16 @@
+{
+  "name": "net.bluwizard.ui",
+  "displayName": "Blu UI",
+  "version": "0.1.0",
+  "description": "Canvas UI Design Templates made for VRChat World Creation.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "^3.4.0"
+  },
+  "author": {
+    "name": "BluWizard",
+    "email": "17975114+BluWizard10@users.noreply.github.com",
+    "url": "https://bluwizard.net"
+  },
+  "dependencies": {}
+}
