@@ -1,7 +1,7 @@
 {
   "name": "net.bluwizard.ui",
-  "displayName": "Blu's World UI Templates",
-  "version": "0.2.0-alpha",
+  "displayName": "BluWizard LABS - World UI Templates",
+  "version": "0.2.1-alpha",
   "description": "Collection of various interactable UI templates and designs using Canvas UI, made specifically for your own custom interactable panels in your VRChat Worlds.",
   "gitDependencies": {},
   "vpmDependencies": {

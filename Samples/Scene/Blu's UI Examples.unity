@@ -200,6 +200,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blu UI Version
       objectReference: {fileID: 0}
+    - target: {fileID: 5483713998974477907, guid: 937f8c882f617cf48b1d6b78bd7f033e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5483713998974477916, guid: 937f8c882f617cf48b1d6b78bd7f033e,
         type: 3}
       propertyPath: m_Pivot.x
@@ -299,6 +304,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5483713998974477917, guid: 937f8c882f617cf48b1d6b78bd7f033e,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3295,6 +3305,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 817264145}
     m_Modifications:
+    - target: {fileID: 2598977917700925275, guid: 9ce34ccda370e2643b062ce5c16d4cff,
+        type: 3}
+      propertyPath: _syncMethod
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3242757723059768060, guid: 9ce34ccda370e2643b062ce5c16d4cff,
         type: 3}
       propertyPath: m_Pivot.x

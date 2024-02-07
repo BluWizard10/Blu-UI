@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using UdonSharp;
+﻿using UdonSharp;
 using UnityEngine;
-using UnityEngine.UIElements;
-using UnityEditor;
-using UnityEditor.UIElements;
 using VRC.SDKBase;
 using VRC.Udon;
 
