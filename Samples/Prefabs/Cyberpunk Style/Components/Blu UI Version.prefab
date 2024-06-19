@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: BluWizard LABS UI v0.3.0-alpha
+  m_text: BluWizard LABS UI v0.4.0-alpha
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f6a30f8276834c64b86ccb61fb490945, type: 2}
   m_sharedMaterial: {fileID: 5744228866932741840, guid: f6a30f8276834c64b86ccb61fb490945,
